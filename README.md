@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Full Stack Web Development Projects.
+- 🔭 I’m currently working on building AI-based Web Applications.
 - 🌱 I’m currently learning Machine Learning Concepts and applications.
 - 🤔 I’m looking for help and guidance about how to develop myself as a programmer and developer.
